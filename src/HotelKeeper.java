@@ -1,6 +1,6 @@
 // Facade Interface
 public interface HotelKeeper {
-    public VegMenu getVegMenu();
-    public NonVegMenu getNonVegMenu();
-    public BothMenu getBothMenu();
+    VegMenu getVegMenu();
+    NonVegMenu getNonVegMenu();
+    BothMenu getBothMenu();
 }
