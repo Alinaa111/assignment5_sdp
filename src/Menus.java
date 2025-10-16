@@ -1,4 +1,4 @@
-// General Data class
+// Data Interface
 public interface Menus {
     void getMenu();
 }
